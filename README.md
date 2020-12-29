@@ -6,6 +6,18 @@ Pagination Recyclerview Android Kotlin We use the Pagination Library of Android 
 </p>
 
 ---
+
+Screenshot Picture
+-----
+<p align="center">
+  <img src="https://github.com/alfayedoficial/Pagination_Recyclerview_Android_Kotlin/blob/master/demo/sc1.png" width="350" title="Screen1">
+  <img src="https://github.com/alfayedoficial/Pagination_Recyclerview_Android_Kotlin/blob/master/demo/sc2.png" width="350" title="Screen2">
+  <img src="https://github.com/alfayedoficial/Pagination_Recyclerview_Android_Kotlin/blob/master/demo/sc3.png" width="350" title="Screen2">
+  <img src="https://github.com/alfayedoficial/Pagination_Recyclerview_Android_Kotlin/blob/master/demo/sc4.png" width="350" title="Screen2">
+/>
+
+[Watch the Demo App](https://github.com/alfayedoficial/Pagination_Recyclerview_Android_Kotlin/blob/master/Kotlin.webm)
+
 Installation
 ------------
 
