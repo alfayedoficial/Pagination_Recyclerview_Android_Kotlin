@@ -52,8 +52,7 @@ class HomeActivity : AppCompatActivity() {
 
         loadFirstPage()
 
-        binding.recyclerMyOrders
-            .addOnScrollListener(object : PaginationScrollListener(binding.recyclerMyOrders.layoutManager as LinearLayoutManager) {
+        binding.recyclerMyOrders.addOnScrollListener(object : PaginationScrollListener(binding.recyclerMyOrders.layoutManager as LinearLayoutManager) {
             override fun loadMoreItems() {
                 isLoading = true
                 currentPage += 1
