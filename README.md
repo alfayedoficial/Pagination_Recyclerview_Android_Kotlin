@@ -1,5 +1,5 @@
 # Pagination Recyclerview Android Kotlin
-Pagination Recyclerview Android Kotlin We use the Pagination Library of Android Jetpack in this app to fetch data from the database to recyclerView by retrofit API, This code is following the principles MVVM design pattern and LiveData.
+Pagination Recyclerview Android Java We use the Pagination Library of Android Jetpack in this app to fetch data from the database to recyclerView by retrofit API, This code is following the principles of MVVM design pattern and LiveData.
 
 <p align="left">
   <a href="https://github.com/sweetalert2/sweetalert2/actions"><img alt="Build Status" src="https://github.com/sweetalert2/sweetalert2/workflows/build/badge.svg"></a>
@@ -16,7 +16,7 @@ Screenshot Picture
   <img src="https://github.com/alfayedoficial/Pagination_Recyclerview_Android_Kotlin/blob/master/demo/sc4.png" width="350" title="Screen2">
 />
 
-[Watch the Demo App](https://github.com/alfayedoficial/Pagination_Recyclerview_Android_Kotlin/blob/master/Kotlin.webm)
+[Watch the Demo App](https://github.com/alfayedoficial/Pagination_Recyclerview_Android_Kotlin/blob/master/demo/Kotlin.webm)
 
 Installation
 ------------
