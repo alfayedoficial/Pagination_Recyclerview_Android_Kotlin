@@ -1,0 +1,16 @@
+<resources>
+	<string name="app_name">KOTLIN</string>
+	<string name="label">Pagination Recyclerview Android Kotlin</string>
+	<string name="description">We use <b>Pagination Library of Android Jetpack</b> in this
+		  app to fetch data from database to recyclerview by <b>retrofit API</b> ,This code
+		  is following the principles MVVM design pattern and LiveData.
+	 </string>
+	<string name="license">The License of Code is FREE, anyone can use and edit.</string>
+	<string name="btn_let">Let\'s Go</string>
+	<string name="error_msg">Sorry! Couldn\'t fetch Orders.</string>
+	<string name="btn_retry">Retry</string>
+	<string name="error_msg_no_internet">Not connected to internet</string>
+	<string name="error_msg_timeout">The server took too long to respond</string>
+	<string name="error_msg_unknown">An unexpected error occurred</string>
+	<string name="tap_to_reload">Tap to reload</string>
+</resources>
