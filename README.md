@@ -235,6 +235,5 @@ class AdapterTopMoviesPagination(private var mActivity: HomeActivity) : Recycler
  
  ```
 
-Please note that [Pagination Library is well-supported and Free License](https://github.com/alfayedoficial/Pagination_Recyclerview_Android_Kotlin), so you can use app and edit.
-
+Please note that [Pagination Library is a well-supported and Free License](https://github.com/alfayedoficial/Pagination_Recyclerview_Android_Kotlin), so you can use the app and edit.
 
