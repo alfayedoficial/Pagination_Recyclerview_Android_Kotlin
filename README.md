@@ -1,11 +1,23 @@
 # Pagination Recyclerview Android Kotlin
-Pagination Recyclerview Android Kotlin We use the Pagination Library of Android Jetpack in this app to fetch data from the database to recyclerView by retrofit API, This code is following the principles MVVM design pattern and LiveData.
+Pagination Recyclerview Android Java We use the Pagination Library of Android Jetpack in this app to fetch data from the database to recyclerView by retrofit API, This code is following the principles of MVVM design pattern and LiveData.
 
 <p align="left">
   <a href="https://github.com/sweetalert2/sweetalert2/actions"><img alt="Build Status" src="https://github.com/sweetalert2/sweetalert2/workflows/build/badge.svg"></a>
 </p>
 
 ---
+
+Screenshot Picture
+-----
+<p align="center">
+  <img src="https://github.com/alfayedoficial/Pagination_Recyclerview_Android_Kotlin/blob/master/demo/sc1.png" width="350" title="Screen1">
+  <img src="https://github.com/alfayedoficial/Pagination_Recyclerview_Android_Kotlin/blob/master/demo/sc2.png" width="350" title="Screen2">
+  <img src="https://github.com/alfayedoficial/Pagination_Recyclerview_Android_Kotlin/blob/master/demo/sc3.png" width="350" title="Screen2">
+  <img src="https://github.com/alfayedoficial/Pagination_Recyclerview_Android_Kotlin/blob/master/demo/sc4.png" width="350" title="Screen2">
+/>
+
+[Watch the Demo App](https://github.com/alfayedoficial/Pagination_Recyclerview_Android_Kotlin/blob/master/demo/Kotlin.webm)
+
 Installation
 ------------
 
@@ -223,6 +235,5 @@ class AdapterTopMoviesPagination(private var mActivity: HomeActivity) : Recycler
  
  ```
 
-Please note that [Pagination Library is well-supported and Free License](https://github.com/alfayedoficial/Pagination_Recyclerview_Android_Kotlin), so you can use app and edit.
-
+Please note that [Pagination Library is a well-supported and Free License](https://github.com/alfayedoficial/Pagination_Recyclerview_Android_Kotlin), so you can use the app and edit.
 
